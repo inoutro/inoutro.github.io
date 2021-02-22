@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+안녕하세요. 이민형입니다.
+AI 연구와 개발을 기록하는 블로그입니다. 
+
+
+
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
 
