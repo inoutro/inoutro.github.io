@@ -5,34 +5,9 @@ permalink: /about/
 ---
 
 안녕하세요. 이민형입니다.
-AI 연구와 개발을 기록하는 블로그입니다. 
+
+개인 공부 흔적을 기록하는 공간입니다.
+
+AI 기술과 개발을 주로 기록하고, 취미생활인 MIDI에 대해서도 기록합니다.
 
 
-
-## Theme Monos
-> Simple and lightweight theme for Jekyll
-
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
