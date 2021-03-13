@@ -37,10 +37,12 @@ Precision과 Recall을 설명하기에 앞서서 쉽게 이해하기 위한 Conf
 
 Accuracy는 정확도로 전체 샘플 중에 정답을 맞춘 개수를 의미한다. 일반적으로 분류모델에서 가장 많이 쓰이는 평가 지표이고, 쉽게 이해할 수 있다는 장점이 있습니다.
 $$
-Accuracy = \frac{TP+TN}{TP+FP+FN+TN}
+Accuacy = \frac{TP+TN}{TP+FP+FN+TN}
 $$
 
 ### Precision
+
+$$Accuracy = \frac{TP + TN}{TP + FP + FN + TN}$$
 
 Precision은 정밀도로 Positive라고 예측한 것 중에서 실제로 Positive인 것에 대한 비율입니다. Fraud Detection 문제라고 보면 모델이 Fraud라고 예측한 것 중에서 실제로 Fraud 인 경우 입니다. 즉, 모델이 예측을 얼마나 정밀하게 했는지(?) 라고 생각하면 됩니다.
 $$
