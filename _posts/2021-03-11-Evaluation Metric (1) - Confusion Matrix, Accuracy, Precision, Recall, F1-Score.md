@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Evaluation Metric (1) - Confusion Matrix, Accuracy, Precision, Recall, F1-Score
 categories: [etc]
-
+use_math: true
 
 ---
 
@@ -27,7 +27,7 @@ Precision과 Recall을 설명하기에 앞서서 쉽게 이해하기 위한 Conf
 
 ## Confusion Matrix
 
-<img src="../public/img/confusion_matrix.png" alt="alt text" style="zoom:50%;" />
+![alt text]("/public/img/confusion_matrix.png")
 
 위 그림에서 보는 것처럼 실제 데이터의 라벨과 모델이 예측한 라벨을 비교하는 표가 Confusion Matrix 입니다.
 
