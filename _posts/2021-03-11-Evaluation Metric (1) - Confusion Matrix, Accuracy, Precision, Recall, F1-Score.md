@@ -21,7 +21,7 @@ Precision과 Recall을 설명하기에 앞서서 쉽게 이해하기 위한 Conf
 
 ## Confusion Matrix
 
-![alt text](../public/img/confusion_matrix.png)
+![alt text](/public/img/confusion_matrix.png)
 
 위 그림에서 보는 것처럼 실제 데이터의 라벨과 모델이 예측한 라벨을 비교하는 표가 Confusion Matrix 입니다.
 위 표를 기준으로 Accuracy, Precision, Recall을 모두 계산할 수 있습니다.
